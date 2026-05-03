@@ -13,7 +13,6 @@ This project analyzes bikeshare data from three major U.S. cities: Chicago, New 
 - Most popular stations and trips  
 - Trip duration statistics  
 - User information  
-
 The project demonstrates Python data analysis using pandas.
 
 ## Files used
