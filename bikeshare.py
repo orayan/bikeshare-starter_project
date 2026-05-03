@@ -64,7 +64,7 @@ def load_data(selected_city, selected_month, selected_day):
 def time_stats(city_data):
     """Show most common times."""
 
-    print('\nCalculating The Most Frequent Times of Travel...\n')
+    print('\n Calculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
     print("Most common month:", city_data['month'].mode()[0])
@@ -78,7 +78,7 @@ def time_stats(city_data):
 def station_stats(city_data):
     """Show most popular stations."""
 
-    print('\nCalculating The Most Popular Stations and Trip...\n')
+    print('\n Calculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
     print("Start station:", city_data['Start Station'].mode()[0])
