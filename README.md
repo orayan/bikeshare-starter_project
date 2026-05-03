@@ -24,7 +24,6 @@ The project demonstrates Python data analysis using pandas.
 
 ## Credits
 This project is part of the Udacity Data Analysis Nanodegree program.
-
 Resources used:
 - Udacity course materials  
 - Python documentation: https://docs.python.org/3/  
