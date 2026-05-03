@@ -16,9 +16,17 @@ This project analyzes bikeshare data from three major U.S. cities: Chicago, New 
 
 The project demonstrates Python data analysis using pandas.
 
-### Files used
-Include the files used
+## Files used
+- `bikeshare.py` → Main Python script for data analysis  
+- `new_york_city.csv` → New York City bikeshare data (ignored via .gitignore)  
+- `.gitignore` → Prevents large data files from being tracked  
+- `README.md` → Project documentation  
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Credits
+This project is part of the Udacity Data Analysis Nanodegree program.
+
+Resources used:
+- Udacity course materials  
+- Python documentation: https://docs.python.org/3/  
+- Pandas documentation: https://pandas.pydata.org/docs/
 
